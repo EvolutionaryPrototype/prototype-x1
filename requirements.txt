@@ -1,5 +1,5 @@
 numpy
-openpyxl
+openpyxl==3.0.7
 requests
 streamlit_lottie
 
